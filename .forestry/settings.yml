@@ -32,7 +32,7 @@ sections:
   label: Publications
   create: all
   match: "**/*"
-upload_dir: http://s3.amazonaws.com/forestry-images
+upload_dir: ''
 public_path: http://s3.amazonaws.com/forestry-images
 front_matter_path: ''
 use_front_matter_path: 
