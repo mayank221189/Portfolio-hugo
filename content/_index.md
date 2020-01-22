@@ -1,13 +1,12 @@
 ---
-title: "Home"
-date: 2018-02-10T18:56:13-05:00
+title: Home
+date: 2020-01-22T15:31:13+00:00
 sitemap:
-  priority : 1.0
-
+  priority: "1"
 outputs:
 - html
 - rss
 - json
----
 
+---
 Proven Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud.
