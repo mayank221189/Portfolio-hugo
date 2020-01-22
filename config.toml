@@ -15,7 +15,7 @@ showEducation = true
 showExperience = true
 showOpenSource = false
 showProjects = false
-showPublications = false
+showPublications = true
 showQr = true
 showSkills = true
 [params.google.analytics]
