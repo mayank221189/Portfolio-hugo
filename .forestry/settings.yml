@@ -4,6 +4,11 @@ auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
+- type: directory
+  path: ''
+  label: Javascript
+  create: all
+  match: static/js/resume.js
 - type: document
   path: "*"
   label: Config
