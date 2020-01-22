@@ -1,50 +1,39 @@
 baseURL = "https://example.com/"
 languageCode = "en-us"
 title = "Mayank Patel - Portfolio"
-
-
 [params]
-    firstName = "Mayank"
-    lastName = "Patel"
-    address = "Van Buren Charter Township, Michigan"
-    phone = "+1(224)520-1905"
-    contactNote = "Full Stack Developer"
-    profileImage = "img/TechChat.png"
-    email = "mayank221189@gmail.com"
-    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
-    favicon = "img/favicon.ico"
-    # what sections
-    showSkills = true
-    showProjects = false
-    showOpenSource = false
-    showPublications = false
-    showExperience = true
-    showEducation = true
-
-    showQr = true
-
-[[params.handles]]
-    name = "LinkedIn"
-    link = "https://www.linkedin.com/in/edwardwebb/"
-
-
-[[params.handles]]
-    name = "GitHub"
-    link = "https://github.com/eddiewebb/"
-
-[[params.handles]]
-    name = "Bitbucket"
-    link = "https://bitbucket.org/eddiewebb/"
-
-[[params.handles]]
-    name = "Stack Overflow"
-    link = "https://stackoverflow.com/users/story/82880"
-    icon = "stack-overflow"
-
-[[params.handles]]
-    name = "Keybase"
-    link = "https://keybase.io/edwardawebb"
-    icon = "keybase"
-
+address = "Van Buren Charter Township, Michigan"
+contactNote = "Full Stack Developer"
+description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+email = "mayank221189@gmail.com"
+favicon = "img/favicon.ico"
+firstName = "Mayank"
+lastName = "Patel"
+phone = "+1(224)520-1905"
+profileImage = "img/TechChat.png"
+showEducation = true
+showExperience = true
+showOpenSource = false
+showProjects = false
+showPublications = false
+showQr = true
+showSkills = false
 [params.google.analytics]
-    trackerID = "XX-123446-01"
+trackerID = "XX-123446-01"
+[[params.handles]]
+link = "https://www.linkedin.com/in/edwardwebb/"
+name = "LinkedIn"
+[[params.handles]]
+link = "https://github.com/eddiewebb/"
+name = "GitHub"
+[[params.handles]]
+link = "https://bitbucket.org/eddiewebb/"
+name = "Bitbucket"
+[[params.handles]]
+icon = "stack-overflow"
+link = "https://stackoverflow.com/users/story/82880"
+name = "Stack Overflow"
+[[params.handles]]
+icon = "keybase"
+link = "https://keybase.io/edwardawebb"
+name = "Keybase"
