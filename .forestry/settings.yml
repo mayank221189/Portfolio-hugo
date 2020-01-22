@@ -10,7 +10,7 @@ sections:
   create: all
   match: js/resume.js
 - type: document
-  path: "*"
+  path: config.toml
   label: Config
 - type: directory
   path: data
