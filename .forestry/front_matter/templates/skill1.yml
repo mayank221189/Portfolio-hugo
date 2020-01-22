@@ -1,0 +1,14 @@
+---
+label: skill1
+hide_body: true
+fields:
+- type: field_group_list
+  name: Skills
+  label: Skills
+  fields:
+  - type: text
+    name: grouping
+    label: grouping
+  - type: list
+    name: skills
+    label: skills
