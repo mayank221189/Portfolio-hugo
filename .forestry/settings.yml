@@ -8,7 +8,7 @@ sections:
   path: static
   label: Javascript
   create: all
-  match: js/resume.js
+  match: "*"
 - type: document
   path: config.toml
   label: Config
