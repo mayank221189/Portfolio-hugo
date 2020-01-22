@@ -1,6 +1,5 @@
 +++
 date = 2020-01-22T05:00:00Z
-draft = true
 tags = ["personal"]
 title = "my Personal Blog"
 
